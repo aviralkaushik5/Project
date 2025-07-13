@@ -1,4 +1,4 @@
-**Portfolio Optimization using Modern Portfolio Theory (MPT)**
+Portfolio Optimization using Modern Portfolio Theory (MPT)
 
 This project demonstrates how to build and analyze an optimal investment portfolio using  Modern Portfolio Theory (MPT)** in Python. It simulates thousands of portfolios to find the one with the highest **Sharpe Ratio**, helping investors balance risk and return.
 
@@ -31,8 +31,9 @@ This project demonstrates how to build and analyze an optimal investment portfol
 
 # Sample Visualisation
 
-![Efficient Frontier Plot](https://upload.wikimedia.org/wikipedia/commons/9/92/Efficient_frontier.png)  
+![Efficient Frontier Plot]( https://upload.wikimedia.org/wikipedia/commons/9/92/Efficient_frontier.png )  
 *Note: This is a sample image; run the code to generate your custom plot.*
+
 ---
 
 # How to Run
