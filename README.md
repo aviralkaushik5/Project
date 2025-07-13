@@ -33,7 +33,6 @@ This project demonstrates how to build and analyze an optimal investment portfol
 
 ![Efficient Frontier Plot](https://upload.wikimedia.org/wikipedia/commons/9/92/Efficient_frontier.png)  
 *Note: This is a sample image; run the code to generate your custom plot.*
-
 ---
 
 # How to Run
