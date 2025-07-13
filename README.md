@@ -34,7 +34,17 @@ This project demonstrates how to build and analyze an optimal investment portfol
 ![Efficient Frontier Plot]( https://upload.wikimedia.org/wikipedia/commons/9/92/Efficient_frontier.png )  
 *Note: This is a sample image; run the code to generate your custom plot.*
 
----
+# Dataset
+
+The dataset used for portfolio optimization is generated using [Yahoo Finance](https://finance.yahoo.com) through the `yfinance` Python package. It includes daily stock prices for the following companies from 2020 to 2024:
+
+- Apple (AAPL)
+- Amazon (AMZN)
+- Alphabet (GOOGL)
+- Microsoft (MSFT)
+- Tesla (TSLA)
+
+🗂️ [Click here to view/download the dataset](./portfolio_dataset.csv)
 
 # How to Run
 
