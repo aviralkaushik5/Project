@@ -1,4 +1,4 @@
-Portfolio Optimization using Modern Portfolio Theory (MPT)
+**Portfolio Optimization using Modern Portfolio Theory (MPT)**
 
 This project demonstrates how to build and analyze an optimal investment portfolio using  Modern Portfolio Theory (MPT)** in Python. It simulates thousands of portfolios to find the one with the highest **Sharpe Ratio**, helping investors balance risk and return.
 
