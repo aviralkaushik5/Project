@@ -42,9 +42,9 @@ pip install -r requirements.txt
 2.	Add your token as an environment variable:
 
 
-export TELEGRAM_TOKEN= 7957451812:AAG1_yo8Jwmc2m01uuEjwxhuUsAty_pskpU   # Mac/Linux
+		export TELEGRAM_TOKEN= 7957451812:AAG1_yo8Jwmc2m01uuEjwxhuUsAty_pskpU   # Mac/Linux
       
-set TELEGRAM_TOKEN=7957451812:AAG1_yo8Jwmc2m01uuEjwxhuUsAty_pskpU      # Windows
+		set TELEGRAM_TOKEN=7957451812:AAG1_yo8Jwmc2m01uuEjwxhuUsAty_pskpU      # Windows
 
 
 
