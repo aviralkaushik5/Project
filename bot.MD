@@ -46,11 +46,11 @@ A Telegram bot built with Python that helps users manage investments, search sto
 
 my-bot/
 
-├── bot.py              # main bot script
+├── bot.py             		 # main bot script
 
-├── requirements.txt    # dependencies
+├── requirements.txt  		  # dependencies
 
-├── README.md           # documentation
+├── README.md        		   # documentation
 
 └── .gitignore
 
