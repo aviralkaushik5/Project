@@ -18,9 +18,9 @@ A Telegram bot built with Python that helps users manage investments, search sto
 ⚡ Installation
 1. Clone the repository:
    
-git clone https://github.com/<aviralkaushik5>/<aviralkaushik5/Project>.git
+		git clone https://github.com/aviralkaushik5/Project.git
 
-cd <aviralkaushik5/Project>
+		cd Project
 
 2. Create a virtual environment:
 
