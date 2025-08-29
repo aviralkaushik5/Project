@@ -24,15 +24,15 @@ A Telegram bot built with Python that helps users manage investments, search sto
 
 2. Create a virtual environment:
 
-python -m venv venv
+		python -m venv venv
 
-source venv/bin/activate   # for mac
+		source venv/bin/activate   # for mac
 
-venv\Scripts\activate
+		venv\Scripts\activate
    
 4. Install dependencies:
 
-pip install -r requirements.txt
+		pip install -r requirements.txt
 
 
 🔑 Setup
@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 ▶️ Run the Bot
 
-python bot.py
+		python bot.py
 
 
 
