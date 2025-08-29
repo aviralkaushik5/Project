@@ -58,11 +58,15 @@ my-bot/
 📝 Example Commands
 
 •	/start → Start the bot
+
 •	/help → Get help
+
 •	/finance → Example custom command
 
  👨‍💻 Author
-	•	Aviral Kaushik
-	•	📧 kaushikaviral14@gmail.com
+	
+•	Aviral Kaushik
+
+•	📧 kaushikaviral14@gmail.com
 	
  
