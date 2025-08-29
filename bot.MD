@@ -56,9 +56,10 @@ my-bot/
 
 
 📝 Example Commands
-	•	/start → Start the bot
-	•	/help → Get help
-	•	/finance → Example custom command
+
+•	/start → Start the bot
+•	/help → Get help
+•	/finance → Example custom command
 
  👨‍💻 Author
 	•	Aviral Kaushik
