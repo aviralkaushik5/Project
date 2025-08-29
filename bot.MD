@@ -63,7 +63,9 @@ my-bot/
 
 •	/finance → Example custom command
 
- 👨‍💻 Author
+
+
+👨‍💻 Author
 	
 •	Aviral Kaushik
 
