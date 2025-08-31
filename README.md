@@ -2,7 +2,7 @@
 
 This project demonstrates how to build and analyze an optimal investment portfolio using  Modern Portfolio Theory (MPT)** in Python. It simulates thousands of portfolios to find the one with the highest **Sharpe Ratio**, helping investors balance risk and return.
 
-* Project Objectives
+# Project Objectives
 
 - Retrieve historical stock data using **yFinance**
 - Calculate daily returns and the **covariance matrix**
@@ -10,7 +10,7 @@ This project demonstrates how to build and analyze an optimal investment portfol
 - Visualize the **Efficient Frontier**
 - Identify the **Optimal Portfolio** based on risk-return trade-off
 
-* Technologies Used
+# Technologies Used
 
 - Python
 - Jupyter Notebook
@@ -18,23 +18,23 @@ This project demonstrates how to build and analyze an optimal investment portfol
 - numpy, pandas
 - matplotlib, seaborn
 
-* Files Included
+# Files Included
 
 - Portfolio_Optimization_MPT_Final.ipynb : Main Jupyter notebook with code and analysis
 
-* Output Highlights
+# Output Highlights
 
 -  Optimal weights allocation for selected stocks
 -  Minimum risk vs  Maximum return visualisation
 -  Efficient Frontier plotted with Sharpe Ratios
 - Graphical insights for portfolio decision-making
 
-* Sample Visualisation
+# Sample Visualisation
 
 ![Efficient Frontier Plot]( https://upload.wikimedia.org/wikipedia/commons/9/92/Efficient_frontier.png )  
 *Note: This is a sample image; run the code to generate your custom plot.*
 
-* Dataset
+# Dataset
 
 The dataset used for portfolio optimization is generated using [Yahoo Finance](https://finance.yahoo.com) through the `yfinance` Python package. It includes daily stock prices for the following companies from 2020 to 2024:
 
@@ -46,7 +46,7 @@ The dataset used for portfolio optimization is generated using [Yahoo Finance](h
 
 🗂️ [Click here to view/download the dataset](./portfolio_dataset.csv)
 
-* How to Run
+# How to Run
 
 1. Install dependencies:
    ```bash
